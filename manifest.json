@@ -14,6 +14,6 @@
         "default_popup": "popup.html"
     },
     "background": {
-        "service_worker": "backgroud.js"
+        "service_worker": "background.js"
     }
 }
