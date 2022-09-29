@@ -1,6 +1,6 @@
 {
     "name": "☡",
-    "description": "An extension created by Zihan",
+    "description": "Zihan's personal extension created by Zihan!",
     "version": "1.0.0",
     "manifest_version": 3,
     "permissions": [
@@ -10,5 +10,8 @@
         "default_title": "☡",
         "default_icon": "logo.png",
         "default_popup": "popup.html"
+    },
+    "backgroud": {
+        "service_worker": "backgroud.js"
     }
 }
