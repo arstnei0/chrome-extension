@@ -9,9 +9,6 @@
         "scripting"
     ],
     "action": {
-        "default_title": "☡",
-        "default_icon": "logo.png",
-        "default_popup": "popup.html"
     },
     "background": {
         "service_worker": "background.js"
