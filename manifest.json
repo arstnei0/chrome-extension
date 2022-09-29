@@ -2,7 +2,7 @@
     "name": "☡",
     "description": "An extension created by Zihan",
     "version": "1.0.0",
-    "menifest_version": "3",
+    "manifest_version": 3,
     "permissions": [
         "bookmarks"
     ],
