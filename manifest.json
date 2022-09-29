@@ -1,0 +1,14 @@
+{
+    "name": "☡",
+    "description": "An extension created by Zihan",
+    "version": "1.0.0",
+    "menifest_version": "3",
+    "permissions": [
+        "bookmarks"
+    ],
+    "action": {
+        "default_title": "☡",
+        "default_icon": "logo.png",
+        "default_popup": "popup.html"
+    }
+}
